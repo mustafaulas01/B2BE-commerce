@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DOGOB2B.WEB.props" />
+</Project>

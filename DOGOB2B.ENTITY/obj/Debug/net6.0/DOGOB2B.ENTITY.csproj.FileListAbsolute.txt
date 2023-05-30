@@ -1,0 +1,12 @@
+C:\Users\Mustafa\source\repos\DOGOB2B\DOGOB2B.ENTITY\bin\Debug\net6.0\DOGOB2B.ENTITY.deps.json
+C:\Users\Mustafa\source\repos\DOGOB2B\DOGOB2B.ENTITY\bin\Debug\net6.0\DOGOB2B.ENTITY.dll
+C:\Users\Mustafa\source\repos\DOGOB2B\DOGOB2B.ENTITY\bin\Debug\net6.0\DOGOB2B.ENTITY.pdb
+C:\Users\Mustafa\source\repos\DOGOB2B\DOGOB2B.ENTITY\obj\Debug\net6.0\DOGOB2B.ENTITY.csproj.AssemblyReference.cache
+C:\Users\Mustafa\source\repos\DOGOB2B\DOGOB2B.ENTITY\obj\Debug\net6.0\DOGOB2B.ENTITY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\source\repos\DOGOB2B\DOGOB2B.ENTITY\obj\Debug\net6.0\DOGOB2B.ENTITY.AssemblyInfoInputs.cache
+C:\Users\Mustafa\source\repos\DOGOB2B\DOGOB2B.ENTITY\obj\Debug\net6.0\DOGOB2B.ENTITY.AssemblyInfo.cs
+C:\Users\Mustafa\source\repos\DOGOB2B\DOGOB2B.ENTITY\obj\Debug\net6.0\DOGOB2B.ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\DOGOB2B\DOGOB2B.ENTITY\obj\Debug\net6.0\DOGOB2B.ENTITY.dll
+C:\Users\Mustafa\source\repos\DOGOB2B\DOGOB2B.ENTITY\obj\Debug\net6.0\refint\DOGOB2B.ENTITY.dll
+C:\Users\Mustafa\source\repos\DOGOB2B\DOGOB2B.ENTITY\obj\Debug\net6.0\DOGOB2B.ENTITY.pdb
+C:\Users\Mustafa\source\repos\DOGOB2B\DOGOB2B.ENTITY\obj\Debug\net6.0\ref\DOGOB2B.ENTITY.dll
